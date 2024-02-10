@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258290891000",
+    "project_id": "ecoharbar",
+    "storage_bucket": "ecoharbar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258290891000:android:babde02b1f80e56f05230d",
+        "android_client_info": {
+          "package_name": "com.example.ecoharbar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-HJSxsLS3aHOenT0LzAMKm5__u15t-i4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
